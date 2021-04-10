@@ -7,5 +7,11 @@ namespace BackEnd
     class Empleado
     {
         public int MyProperty { get; set; }
+
+
+        void Metodo2()
+        {
+
+        }
     }
 }
