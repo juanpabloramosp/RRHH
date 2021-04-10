@@ -7,5 +7,10 @@ namespace BackEnd
     class Salario
     {
         public int MyProperty { get; set; }
+
+        void MiMetodo()
+        {
+
+        }
     }
 }
