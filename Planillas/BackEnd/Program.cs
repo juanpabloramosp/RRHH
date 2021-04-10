@@ -9,7 +9,7 @@ namespace BackEnd
         static void Main(string[] args)
         {
 
-            //Se corrige la formula
+            //Se corrige la fórmula
             Console.WriteLine("Hello World!");
         }
     }
